@@ -1,0 +1,70 @@
+[
+  {
+    "id": "4-3-3",
+    "name": "4-3-3",
+    "slots": [
+      { "id": "gk", "role": "GK", "preferredPos": "GK", "x": 50, "y": 92 },
+      { "id": "lb", "role": "LB", "preferredPos": "DF", "x": 18, "y": 72 },
+      { "id": "cb1", "role": "CB", "preferredPos": "DF", "x": 38, "y": 78 },
+      { "id": "cb2", "role": "CB", "preferredPos": "DF", "x": 62, "y": 78 },
+      { "id": "rb", "role": "RB", "preferredPos": "DF", "x": 82, "y": 72 },
+      { "id": "cm1", "role": "CM", "preferredPos": "MF", "x": 30, "y": 52 },
+      { "id": "cm2", "role": "CM", "preferredPos": "MF", "x": 50, "y": 48 },
+      { "id": "cm3", "role": "CM", "preferredPos": "MF", "x": 70, "y": 52 },
+      { "id": "lw", "role": "LW", "preferredPos": "FW", "x": 22, "y": 22 },
+      { "id": "st", "role": "ST", "preferredPos": "FW", "x": 50, "y": 14 },
+      { "id": "rw", "role": "RW", "preferredPos": "FW", "x": 78, "y": 22 }
+    ]
+  },
+  {
+    "id": "4-2-3-1",
+    "name": "4-2-3-1",
+    "slots": [
+      { "id": "gk", "role": "GK", "preferredPos": "GK", "x": 50, "y": 92 },
+      { "id": "lb", "role": "LB", "preferredPos": "DF", "x": 18, "y": 72 },
+      { "id": "cb1", "role": "CB", "preferredPos": "DF", "x": 38, "y": 78 },
+      { "id": "cb2", "role": "CB", "preferredPos": "DF", "x": 62, "y": 78 },
+      { "id": "rb", "role": "RB", "preferredPos": "DF", "x": 82, "y": 72 },
+      { "id": "cdm1", "role": "CDM", "preferredPos": "MF", "x": 38, "y": 58 },
+      { "id": "cdm2", "role": "CDM", "preferredPos": "MF", "x": 62, "y": 58 },
+      { "id": "lam", "role": "LAM", "preferredPos": "MF", "x": 22, "y": 36 },
+      { "id": "cam", "role": "CAM", "preferredPos": "MF", "x": 50, "y": 32 },
+      { "id": "ram", "role": "RAM", "preferredPos": "MF", "x": 78, "y": 36 },
+      { "id": "st", "role": "ST", "preferredPos": "FW", "x": 50, "y": 14 }
+    ]
+  },
+  {
+    "id": "3-5-2",
+    "name": "3-5-2",
+    "slots": [
+      { "id": "gk", "role": "GK", "preferredPos": "GK", "x": 50, "y": 92 },
+      { "id": "cb1", "role": "CB", "preferredPos": "DF", "x": 28, "y": 78 },
+      { "id": "cb2", "role": "CB", "preferredPos": "DF", "x": 50, "y": 80 },
+      { "id": "cb3", "role": "CB", "preferredPos": "DF", "x": 72, "y": 78 },
+      { "id": "lwb", "role": "LWB", "preferredPos": "MF", "x": 14, "y": 52 },
+      { "id": "cm1", "role": "CM", "preferredPos": "MF", "x": 35, "y": 50 },
+      { "id": "cm2", "role": "CM", "preferredPos": "MF", "x": 50, "y": 46 },
+      { "id": "cm3", "role": "CM", "preferredPos": "MF", "x": 65, "y": 50 },
+      { "id": "rwb", "role": "RWB", "preferredPos": "MF", "x": 86, "y": 52 },
+      { "id": "st1", "role": "ST", "preferredPos": "FW", "x": 38, "y": 16 },
+      { "id": "st2", "role": "ST", "preferredPos": "FW", "x": 62, "y": 16 }
+    ]
+  },
+  {
+    "id": "4-4-2",
+    "name": "4-4-2",
+    "slots": [
+      { "id": "gk", "role": "GK", "preferredPos": "GK", "x": 50, "y": 92 },
+      { "id": "lb", "role": "LB", "preferredPos": "DF", "x": 18, "y": 72 },
+      { "id": "cb1", "role": "CB", "preferredPos": "DF", "x": 38, "y": 78 },
+      { "id": "cb2", "role": "CB", "preferredPos": "DF", "x": 62, "y": 78 },
+      { "id": "rb", "role": "RB", "preferredPos": "DF", "x": 82, "y": 72 },
+      { "id": "lm", "role": "LM", "preferredPos": "MF", "x": 18, "y": 48 },
+      { "id": "cm1", "role": "CM", "preferredPos": "MF", "x": 38, "y": 52 },
+      { "id": "cm2", "role": "CM", "preferredPos": "MF", "x": 62, "y": 52 },
+      { "id": "rm", "role": "RM", "preferredPos": "MF", "x": 82, "y": 48 },
+      { "id": "st1", "role": "ST", "preferredPos": "FW", "x": 38, "y": 16 },
+      { "id": "st2", "role": "ST", "preferredPos": "FW", "x": 62, "y": 16 }
+    ]
+  }
+]

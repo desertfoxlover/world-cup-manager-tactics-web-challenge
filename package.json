@@ -1,0 +1,18 @@
+{
+  "name": "world-cup-manager-tactics-web-challenge",
+  "version": "1.0.0",
+  "description": "> **공식 페이지:** [daker.ai/.../world-cup-manager-tactics-web-challenge](https://daker.ai/public/hackathons/world-cup-manager-tactics-web-challenge)  \r > **기준일:** 2026-07-21 (기획서 마감까지 **약 6일** / 최종 제출까지 **약 13일**)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "proposal:screenshots": "node scripts/capture-screenshots.mjs",
+    "proposal:pdf": "node scripts/generate-proposal-pdf.mjs",
+    "proposal": "node scripts/capture-screenshots.mjs && node scripts/generate-proposal-pdf.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

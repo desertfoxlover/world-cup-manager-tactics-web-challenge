@@ -1,0 +1,170 @@
+[
+  {
+    "id": "kor",
+    "name": "South Korea",
+    "nameKo": "대한민국",
+    "group": "H",
+    "flag": "🇰🇷",
+    "defaultFormationId": "4-3-3",
+    "defaultLineup": {
+      "gk": "kor-jo",
+      "lb": "kor-kim-jh",
+      "cb1": "kor-kim-mh",
+      "cb2": "kor-kim-yg",
+      "rb": "kor-hong",
+      "cm1": "kor-jeong",
+      "cm2": "kor-hwang",
+      "cm3": "kor-lee-kis",
+      "lw": "kor-son",
+      "st": "kor-cho",
+      "rw": "kor-hwang-hc"
+    }
+  },
+  {
+    "id": "bra",
+    "name": "Brazil",
+    "nameKo": "브라질",
+    "group": "D",
+    "flag": "🇧🇷",
+    "defaultFormationId": "4-2-3-1",
+    "defaultLineup": {
+      "gk": "bra-alisson",
+      "lb": "bra-danilo",
+      "cb1": "bra-marquinhos",
+      "cb2": "bra-militao",
+      "rb": "bra-arana",
+      "cdm1": "bra-casemiro",
+      "cdm2": "bra-paquetá",
+      "lam": "bra-vinicius",
+      "cam": "bra-neymar",
+      "ram": "bra-raphinha",
+      "st": "bra-richarlison"
+    }
+  },
+  {
+    "id": "arg",
+    "name": "Argentina",
+    "nameKo": "아르헨티나",
+    "group": "J",
+    "flag": "🇦🇷",
+    "defaultFormationId": "4-3-3",
+    "defaultLineup": {
+      "gk": "arg-martinez",
+      "lb": "arg-tagliafico",
+      "cb1": "arg-otamendi",
+      "cb2": "arg-romero",
+      "rb": "arg-molina",
+      "cm1": "arg-de-paul",
+      "cm2": "arg-messi",
+      "cm3": "arg-enzo",
+      "lw": "arg-alvarez",
+      "st": "arg-lautaro",
+      "rw": "arg-dimarco"
+    }
+  },
+  {
+    "id": "fra",
+    "name": "France",
+    "nameKo": "프랑스",
+    "group": "I",
+    "flag": "🇫🇷",
+    "defaultFormationId": "4-2-3-1",
+    "defaultLineup": {
+      "gk": "fra-maignan",
+      "lb": "fra-hernandez",
+      "cb1": "fra-upamecano",
+      "cb2": "fra-kounde",
+      "rb": "fra-pavard",
+      "cdm1": "fra-tchouameni",
+      "cdm2": "fra-camavinga",
+      "lam": "fra-griezmann",
+      "cam": "fra-dembele",
+      "ram": "fra-mbappe",
+      "st": "fra-giroud"
+    }
+  },
+  {
+    "id": "ger",
+    "name": "Germany",
+    "nameKo": "독일",
+    "group": "A",
+    "flag": "🇩🇪",
+    "defaultFormationId": "4-2-3-1",
+    "defaultLineup": {
+      "gk": "ger-neuer",
+      "lb": "ger-raum",
+      "cb1": "ger-rudiger",
+      "cb2": "ger-schlotterbeck",
+      "rb": "ger-kimmich",
+      "cdm1": "ger-gundogan",
+      "cdm2": "ger-kroos",
+      "lam": "ger-musiala",
+      "cam": "ger-wirtz",
+      "ram": "ger-sane",
+      "st": "ger-fullkrug"
+    }
+  },
+  {
+    "id": "esp",
+    "name": "Spain",
+    "nameKo": "스페인",
+    "group": "B",
+    "flag": "🇪🇸",
+    "defaultFormationId": "4-3-3",
+    "defaultLineup": {
+      "gk": "esp-simon",
+      "lb": "esp-balde",
+      "cb1": "esp-laporte",
+      "cb2": "esp-le-normand",
+      "rb": "esp-carvajal",
+      "cm1": "esp-pedri",
+      "cm2": "esp-rodri",
+      "cm3": "esp-gavi",
+      "lw": "esp-williams",
+      "st": "esp-morata",
+      "rw": "esp-yamal"
+    }
+  },
+  {
+    "id": "eng",
+    "name": "England",
+    "nameKo": "잉글랜드",
+    "group": "C",
+    "flag": "🇬🇧",
+    "defaultFormationId": "4-3-3",
+    "defaultLineup": {
+      "gk": "eng-pickford",
+      "lb": "eng-shaw",
+      "cb1": "eng-stones",
+      "cb2": "eng-maguire",
+      "rb": "eng-walker",
+      "cm1": "eng-rice",
+      "cm2": "eng-bellingham",
+      "cm3": "eng-mainoo",
+      "lw": "eng-foden",
+      "st": "eng-kane",
+      "rw": "eng-saka"
+    }
+  },
+  {
+    "id": "jpn",
+    "name": "Japan",
+    "nameKo": "일본",
+    "group": "E",
+    "flag": "🇯🇵",
+    "defaultFormationId": "4-2-3-1",
+    "defaultLineup": {
+      "gk": "jpn-gonda",
+      "lb": "jpn-nagatomo",
+      "cb1": "jpn-itakura",
+      "cb2": "jpn-tomiyasu",
+      "rb": "jpn-sakai",
+      "cdm1": "jpn-endo",
+      "cdm2": "jpn-tanaka",
+      "lam": "jpn-kubo",
+      "cam": "jpn-kamada",
+      "ram": "jpn-minamino",
+      "st": "jpn-osako"
+    }
+  }
+]
