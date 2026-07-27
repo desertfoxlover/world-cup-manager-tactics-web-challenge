@@ -29,7 +29,7 @@ export function ResultPage() {
     <div className="result-page">
       <div className="result-card">
         <header className="result-header">
-          <span className="team-flag large">{selectedTeam.flag}</span>
+          <img className="team-flag large" src={`/flags/${selectedTeam.flag}.svg`} alt={`${selectedTeam.nameKo} flag`} />
           <div>
             <p className="result-label">내가 감독이었다면</p>
             <h1>{selectedTeam.nameKo}</h1>

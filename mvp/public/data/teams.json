@@ -4,7 +4,7 @@
     "name": "South Korea",
     "nameKo": "대한민국",
     "group": "H",
-    "flag": "🇰🇷",
+    "flag": "kr",
     "defaultFormationId": "4-3-3",
     "defaultLineup": {
       "gk": "kor-jo",
@@ -25,7 +25,7 @@
     "name": "Brazil",
     "nameKo": "브라질",
     "group": "D",
-    "flag": "🇧🇷",
+    "flag": "br",
     "defaultFormationId": "4-2-3-1",
     "defaultLineup": {
       "gk": "bra-alisson",
@@ -46,7 +46,7 @@
     "name": "Argentina",
     "nameKo": "아르헨티나",
     "group": "J",
-    "flag": "🇦🇷",
+    "flag": "ar",
     "defaultFormationId": "4-3-3",
     "defaultLineup": {
       "gk": "arg-martinez",
@@ -67,7 +67,7 @@
     "name": "France",
     "nameKo": "프랑스",
     "group": "I",
-    "flag": "🇫🇷",
+    "flag": "fr",
     "defaultFormationId": "4-2-3-1",
     "defaultLineup": {
       "gk": "fra-maignan",
@@ -88,7 +88,7 @@
     "name": "Germany",
     "nameKo": "독일",
     "group": "A",
-    "flag": "🇩🇪",
+    "flag": "de",
     "defaultFormationId": "4-2-3-1",
     "defaultLineup": {
       "gk": "ger-neuer",
@@ -109,7 +109,7 @@
     "name": "Spain",
     "nameKo": "스페인",
     "group": "B",
-    "flag": "🇪🇸",
+    "flag": "es",
     "defaultFormationId": "4-3-3",
     "defaultLineup": {
       "gk": "esp-simon",
@@ -130,7 +130,7 @@
     "name": "England",
     "nameKo": "잉글랜드",
     "group": "C",
-    "flag": "🇬🇧",
+    "flag": "eng",
     "defaultFormationId": "4-3-3",
     "defaultLineup": {
       "gk": "eng-pickford",
@@ -151,7 +151,7 @@
     "name": "Japan",
     "nameKo": "일본",
     "group": "E",
-    "flag": "🇯🇵",
+    "flag": "jp",
     "defaultFormationId": "4-2-3-1",
     "defaultLineup": {
       "gk": "jpn-gonda",

@@ -85,7 +85,7 @@ export function BoardPage() {
           ← 팀 선택
         </button>
         <div className="board-title">
-          <span className="team-flag">{selectedTeam.flag}</span>
+          <img className="team-flag" src={`/flags/${selectedTeam.flag}.svg`} alt={`${selectedTeam.nameKo} flag`} />
           <h1>{selectedTeam.nameKo}</h1>
         </div>
         <div className="board-actions">

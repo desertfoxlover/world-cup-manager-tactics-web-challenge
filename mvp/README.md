@@ -53,3 +53,4 @@ https://wonderful-tapioca-0d2c73.netlify.app
 ## 라이선스
 
 해커톤 제출용. 선수 실사·국가 엠블럼 미사용. 데이터는 공개 정보 수준 큐레이션.
+국기 아이콘: [flag-icons](https://github.com/lipis/flag-icons) (MIT License).

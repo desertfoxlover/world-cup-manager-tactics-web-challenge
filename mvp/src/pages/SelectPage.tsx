@@ -22,7 +22,7 @@ export function SelectPage() {
             className="team-card"
             onClick={() => selectTeam(team)}
           >
-            <span className="team-flag large">{team.flag}</span>
+            <img className="team-flag large" src={`/flags/${team.flag}.svg`} alt={`${team.nameKo} flag`} />
             <span className="team-name">{team.nameKo}</span>
             <span className="team-meta">
               {team.name} · Group {team.group}

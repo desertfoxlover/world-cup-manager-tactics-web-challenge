@@ -250,12 +250,17 @@ button {
 }
 
 .team-flag {
-  font-size: 2rem;
-  line-height: 1;
+  width: 2.4rem;
+  height: 1.8rem;
+  object-fit: cover;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.15);
+  display: block;
 }
 
 .team-flag.large {
-  font-size: 3rem;
+  width: 3.6rem;
+  height: 2.7rem;
 }
 
 .team-name {
