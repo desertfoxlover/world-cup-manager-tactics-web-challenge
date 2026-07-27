@@ -9,7 +9,8 @@
   "scripts": {
     "proposal:screenshots": "node scripts/capture-screenshots.mjs",
     "proposal:pdf": "node scripts/generate-proposal-pdf.mjs",
-    "proposal": "node scripts/capture-screenshots.mjs && node scripts/generate-proposal-pdf.mjs"
+    "proposal": "node scripts/capture-screenshots.mjs && node scripts/generate-proposal-pdf.mjs",
+    "demo:record": "node scripts/record-demo.mjs"
   },
   "keywords": [],
   "author": "",
