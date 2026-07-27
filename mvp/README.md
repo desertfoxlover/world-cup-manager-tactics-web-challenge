@@ -50,6 +50,16 @@ npm run preview
 
 https://wonderful-tapioca-0d2c73.netlify.app
 
+## GitHub
+
+https://github.com/desertfoxlover/world-cup-manager-tactics-web-challenge
+
+## 시연 영상
+
+로컬: `deliverables/if-i-were-manager-demo.mp4` (~3분)  
+자막: `deliverables/if-i-were-manager-demo.ko.srt`  
+재녹화: `npm run demo:record`
+
 ## 라이선스
 
 해커톤 제출용. 선수 실사·국가 엠블럼 미사용. 데이터는 공개 정보 수준 큐레이션.
